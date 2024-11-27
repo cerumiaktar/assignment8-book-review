@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "bookName": "The Catcher in the Rye",
+        "author": "Harper Lee",
+        "image": "https://i.ibb.co.com/pvhd2xH/b1.png",
+        "review": "The book is more than a physical journey; it’s a spiritual quest to uncover one’s true purpose in life. Coelho’s writing is simple yet poetic, delivering timeless lessons on the importance of following one’s dreams, listening to one’s heart, and recognizing the signs the universe provides.",
+        "totalPages": 281,
+        "rating": 4.8,
+        "category": "Fiction",
+        "tags": [
+            "classic",
+            "justice"
+        ],
+        "publisher": "J.B. Lippincott & Co.",
+        "yearOfPublishing": 1960
+    },
+    {
+        "id": 2,
+        "bookName": "1984",
+        "author": "George Orwell",
+        "image": "https://i.ibb.co.com/T290cXt/b2.png",
+        "review": "The book is more than a physical journey; it’s a spiritual quest to uncover one’s true purpose in life. Coelho’s writing is simple yet poetic, delivering timeless lessons on the importance of following one’s dreams, listening to one’s heart, and recognizing the signs the universe provides.",
+        "totalPages": 328,
+        "rating": 4.7,
+        "category": "Science Fiction",
+        "tags": [
+            "dystopia",
+            "politics"
+        ],
+        "publisher": "Secker & Warburg",
+        "yearOfPublishing": 1949
+    },
+    {
+        "id": 3,
+        "bookName": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "image": "https://i.ibb.co.com/FmH7qm9/b4.png",
+        "review": "The book is more than a physical journey; it’s a spiritual quest to uncover one’s true purpose in life. Coelho’s writing is simple yet poetic, delivering timeless lessons on the importance of following one’s dreams, listening to one’s heart, and recognizing the signs the universe provides.",
+        "totalPages": 180,
+        "rating": 4.5,
+        "category": "Classic",
+        "tags": [
+            "love",
+            "tragedy"
+        ],
+        "publisher": "Charles Scribner's Sons",
+        "yearOfPublishing": 1925
+    },
+    {
+        "id": 4,
+        "bookName": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "image": "https://i.ibb.co.com/W5Tfnsk/b3.png",
+        "review": "The book is more than a physical journey; it’s a spiritual quest to uncover one’s true purpose in life. Coelho’s writing is simple yet poetic, delivering timeless lessons on the importance of following one’s dreams, listening to one’s heart, and recognizing the signs the universe provides.",
+        "totalPages": 279,
+        "rating": 4.6,
+        "category": "Romance",
+        "tags": [
+            "love",
+            "society"
+        ],
+        "publisher": "T. Egerton",
+        "yearOfPublishing": 1813
+    },
+    {
+        "id": 5,
+        "bookName": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "image": "https://i.ibb.co.com/X55GHV6/b5.png",
+        "review": "The book is more than a physical journey; it’s a spiritual quest to uncover one’s true purpose in life. Coelho’s writing is simple yet poetic, delivering timeless lessons on the importance of following one’s dreams, listening to one’s heart, and recognizing the signs the universe provides.",
+        "totalPages": 234,
+        "rating": 4.3,
+        "category": "Young Adult",
+        "tags": [
+            "adolescence",
+            "rebellion"
+        ],
+        "publisher": "Little, Brown and Company",
+        "yearOfPublishing": 1951
+    },
+    {
+        "id": 6,
+        "bookName": "The Alchemist",
+        "author": "Paulo Coelho",
+        "image": "https://i.ibb.co.com/jHm2ZFG/b6.png",
+        "review": "The book is more than a physical journey; it’s a spiritual quest to uncover one’s true purpose in life. Coelho’s writing is simple yet poetic, delivering timeless lessons on the importance of following one’s dreams, listening to one’s heart, and recognizing the signs the universe provides.",
+        "totalPages": 208,
+        "rating": 4.7,
+        "category": "Philosophy",
+        "tags": [
+            "dreams",
+            "self-discovery"
+        ],
+        "publisher": "HarperCollins",
+        "yearOfPublishing": 1988
+    },
+    {
+        "id": 7,
+        "bookName": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "image": "https://i.ibb.co.com/X55GHV6/b5.png",
+        "review": "The book is more than a physical journey; it’s a spiritual quest to uncover one’s true purpose in life. Coelho’s writing is simple yet poetic, delivering timeless lessons on the importance of following one’s dreams, listening to one’s heart, and recognizing the signs the universe provides.",
+        "totalPages": 443,
+        "rating": 4.8,
+        "category": "Non-Fiction",
+        "tags": [
+            "history",
+            "evolution"
+        ],
+        "publisher": "Harper",
+        "yearOfPublishing": 2011
+    },
+    {
+        "id": 8,
+        "bookName": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "image": "https://i.ibb.co.com/rtnV2tq/b8.png",
+        "review": "The book is more than a physical journey; it’s a spiritual quest to uncover one’s true purpose in life. Coelho’s writing is simple yet poetic, delivering timeless lessons on the importance of following one’s dreams, listening to one’s heart, and recognizing the signs the universe provides.",
+        "totalPages": 309,
+        "rating": 4.9,
+        "category": "Fantasy",
+        "tags": [
+            "magic",
+            "adventure"
+        ],
+        "publisher": "Bloomsbury",
+        "yearOfPublishing": 1997
+    },
+    {
+        "id": 9,
+        "bookName": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "image": "https://i.ibb.co.com/vQHYW5n/b9.png",
+        "review": "The book is more than a physical journey; it’s a spiritual quest to uncover one’s true purpose in life. Coelho’s writing is simple yet poetic, delivering timeless lessons on the importance of following one’s dreams, listening to one’s heart, and recognizing the signs the universe provides.",
+        "totalPages": 310,
+        "rating": 4.8,
+        "category": "Fantasy",
+        "tags": [
+            "adventure",
+            "epic"
+        ],
+        "publisher": "George Allen & Unwin",
+        "yearOfPublishing": 1937
+    }
+]
